@@ -323,11 +323,6 @@ python biological_interpretability.py    # Biological analysis (Fig 5)
 
 ## Monitoring Training
 
-### TensorBoard
-```bash
-tensorboard --logdir ./logs
-```
-
 ### Typical Training Output
 ```
 Epoch 1/100 | Loss: 0.486 | AUROC: 0.612 | AUPR: 0.421
@@ -337,25 +332,3 @@ Epoch 80/100 | Loss: 0.124 | AUROC: 0.689 | AUPR: 0.538
 Best Val AUROC: 0.689 → saving checkpoint
 Early stopping triggered after patience=8
 ```
-
-## Contact & Support
-
-For questions or issues:
-- Create an issue on GitHub
-- Contact: zhi.wei@njit.edu
-
-## License
-
-This project is licensed under the MIT License - see LICENSE file for details.
-
-## Acknowledgments
-
-- Based on prior work on TCR-peptide binding prediction (NetTCR, ERGO, etc.)
-- CLIP framework for contrastive learning (Radford et al., 2021)
-- AlphaFold for structure prediction (Jumper et al., 2021)
-- PyTorch Geometric for graph neural networks
-
----
-
-**Last Updated:** April 2024
-**Paper Status:** [Submitted to submission]
