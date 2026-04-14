@@ -1,0 +1,91 @@
+# Build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+conda-env/
+.conda
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data & Models
+*.pkl
+*.pickle
+data/
+dataset/
+embeddings/
+logs/
+checkpoints/
+*.pth
+*.pt
+*.h5
+
+# Results & Outputs
+results/
+figures/
+outputs/
+*.csv
+*.json
+runs/
+
+# SLURM
+slurm_logs/
+*.out
+*.err
+*.log
+
+# Large files
+*.zip
+*.tar.gz
+*.tar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temp
+*.tmp
+.cache/

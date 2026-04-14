@@ -1,0 +1,27 @@
+# Core Data Science & ML
+torch>=2.0.0
+torch-geometric>=2.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Metrics & Evaluation
+scikit-metrics>=0.2.2
+scipy>=1.10.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pyyaml>=6.0
+
+# Structure Prediction
+esmfold>=0.0.1
+biotite>=0.37.0
+
+# Development & Logging
+tensorboard>=2.13.0
+wandb>=0.14.0
+
+# Optional visualization
+plotly>=5.14.0

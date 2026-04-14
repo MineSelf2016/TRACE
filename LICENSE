@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2024 Cong Qi, Wenbo Wang, Hanzhang Fang, Zhi Wei
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER: This implementation is provided for academic and research purposes.
+The authors are not responsible for any consequences of using this code for
+clinical or commercial applications without proper validation.
+
+For citations and attribution, please refer to:
+
+  Qi, C., Wang, W., Fang, H., & Wei, Z. (2024). 
+  When Multimodal Fusion Fails: Contrastive Alignment as a Necessary Stabilizer 
+  for TCR-Peptide Binding Prediction. 
+  [Publication venue and details]
+
+---
+
+Third-party packages used in this project are licensed under their respective licenses:
+- PyTorch: BSD
+- PyTorch Geometric: MIT
+- scikit-learn: BSD
+- NumPy: BSD
+- pandas: BSD
+- matplotlib: PSF
+
+See DEPENDENCIES.md for detailed third-party license information.

@@ -261,7 +261,7 @@ where:
 
 ## Dataset & Embeddings
 
-**Note:** This repository includes code and documentation. Data files should be downloaded from Figshare.
+**Note:** This repository includes code and documentation. Data files should be downloaded from Figshare at https://doi.org/10.6084/m9.figshare.31991007.
 
 ### Required Data Files (place in `data/`)
 ```
@@ -336,19 +336,6 @@ Epoch 2/100 | Loss: 0.392 | AUROC: 0.645 | AUPR: 0.468
 Epoch 80/100 | Loss: 0.124 | AUROC: 0.689 | AUPR: 0.538
 Best Val AUROC: 0.689 → saving checkpoint
 Early stopping triggered after patience=8
-```
-
-## Citation
-
-If you use TRACE in your research, please cite:
-
-```bibtex
-@article{qi2024trace,
-  title={When Multimodal Fusion Fails: Contrastive Alignment as a Necessary Stabilizer for TCR-Peptide Binding Prediction},
-  author={Qi, Cong and Wang, Wenbo and Fang, Hanzhang and Wei, Zhi},
-  journal={arXiv preprint arXiv:2406.xxxxx},
-  year={2024}
-}
 ```
 
 ## Contact & Support
